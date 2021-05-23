@@ -1,2 +1,2 @@
 20172838 Songchangyong
-Kookmin Univ. Bigdata
+Kookmin Univ. Bigdata dept.
