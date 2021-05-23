@@ -1,3 +1,2 @@
-20172838:song chang yong
-
-Kookmin Univ.Bigdata
+20172838 Songchangyong
+Kookmin Univ. Bigdata
